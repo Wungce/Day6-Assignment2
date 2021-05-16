@@ -1,0 +1,51 @@
+*{
+
+    margin: 0;
+
+}
+.page-wrapper{
+
+    width: 100%;
+}
+.box{
+    width: 90%;
+    border: 2px solid orange;
+    margin-top: 10px;
+    margin-left: 68px;
+    padding: 5px;
+    
+}
+.first-box{
+    width: 99%;
+    border: 1px solid green;
+    margin-top: 0px;
+    margin-left: 6px;
+
+}
+.second-box{
+    width: 99%;
+    border: 1px solid rgba(204, 0, 255, 0.76);
+    margin-top: 10px;
+    margin-left: 6px;
+    
+}
+.first-box_middle1{
+    width: 50%;
+    background-color:rgba(150, 235, 52, 0.781);
+    margin-left: 250px;
+    padding: 25px;
+
+}
+
+.second-box_middle2{
+    width: 50%;
+    background-color: rgba(150, 235, 52, 0.781);
+    margin-left: 250px;
+    padding: 25px;
+    
+
+
+
+}
+
+    
